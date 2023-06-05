@@ -9,9 +9,9 @@ It is an application (most often coded in python) linked to an ETH Wallet by its
 
 # 💡 FEATURES :
 
-➜ Withdrawal of all ETH entering into the backdoored Wallet
-➜ Bot is active 24h/24
-➜ Telegram notifications/logs ✈️
+- Withdrawal of all ETH entering into the backdoored Wallet
+- Bot is active 24h/24
+- Telegram notifications/logs ✈️
 
 ➣ Instant Support by @H2ski 🌟
 
