@@ -15,11 +15,11 @@ It is an application (most often coded in python) linked to an ETH Wallet by its
 
 ➣ Instant Support by @H2ski 🌟
 
-## 💸 Prices :
+# 💸 PRICES :
 
-# - 🛒 Take a look at my entire Shop on TG ! (https://t.me/CreditByH2ski)
+## - 🛒 Take a look at my entire TG store for prices on this and many other products! (https://t.me/CreditByH2ski)
 
-# - 🗑️ To buy the Withdrawal ETH Bot, contact me on Telegram (https://t.me/H2ski)
+## - 🗑️ To buy the Withdrawal ETH Bot, contact me on Telegram (https://t.me/H2ski)
 
 # `🚫 Disclaimer :`
 ⚠️ - Anyone who wastes my time will be blocked without hesitation and without notice ⚠️
