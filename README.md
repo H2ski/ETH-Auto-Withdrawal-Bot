@@ -9,6 +9,7 @@ It is an application (most often coded in python) linked to an ETH Wallet by its
 - Withdrawal of all ETH entering into the backdoored Wallet
 - Bot is active 24h/24
 - Telegram notifications/logs ✈️ 
+
 ![image](https://cdn.discordapp.com/attachments/1004051514152722492/1115347799739990076/ETHAutomaticWithdrawalBot.png)
 
 ➣ Instant Support by @H2ski 🌟
