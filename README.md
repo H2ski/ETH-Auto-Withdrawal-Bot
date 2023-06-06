@@ -1,4 +1,4 @@
-# ETH Automatic Withdrawal Bot by @H2ski
+# 🍯 ETH Automatic Withdrawal Bot by H2ski 🌟
 
 ## 🎗️ WHAT IS WITHDRAWAL ETH BOT ?
 
@@ -6,21 +6,21 @@ It is an application (most often coded in python) linked to an ETH Wallet by its
 
 ![image](https://cdn.discordapp.com/attachments/1004051514152722492/1115347799739990076/ETHAutomaticWithdrawalBot.png)
 
-# 💡 FEATURES :
+# `💸 PRICES :`
 
-- Withdrawal of all ETH entering into the backdoored Wallet
-- Bot is active 24h/24
-- Telegram notifications/logs ✈️ 
-
-➣ Instant Support by @H2ski 🌟
-
-# 💸 PRICES :
-
-- 🛒 Take a look at my entire TG store 🌟 for prices on this and many other products! 
+## - 🛒 Take a look at my entire TG store 🌟 for prices on this and many other products! 
 # (https://t.me/CreditByH2ski)
 
-- 🗑️ To buy the Withdrawal ETH Bot, contact me on Telegram 🌟 
+## - 🗑️ To buy the Withdrawal ETH Bot, contact me on Telegram 🌟 
 # (https://t.me/H2ski)
+
+# 💡 FEATURES :
+
+- [x] Withdrawal of all ETH entering into the backdoored Wallet
+- [x] Bot is active 24h/24
+- [x] Telegram notifications/logs ✈️ 
+
+➣ Instant Support by https://t.me/H2ski 🌟
 
 # `🚫 Disclaimer :`
 ⚠️ - Anyone who wastes my time will be blocked without hesitation and without notice ⚠️
